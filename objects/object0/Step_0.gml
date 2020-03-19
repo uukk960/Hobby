@@ -30,3 +30,5 @@ if (tilemap_get_at_pixel(tilemap, bbox_left, bbox_side+vsp )!=0) ||
 	vsp = 0;
 }
 y += vsp
+
+clamp
